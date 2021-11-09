@@ -1,0 +1,11 @@
+.event form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.event form input ,textarea{
+    width: 50%;
+    margin: 10px;
+}
